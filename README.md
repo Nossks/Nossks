@@ -37,11 +37,7 @@ I love building projects that **solve real-world problems**, compete in programm
 ---
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nossks&show_icons=true&theme=radical" alt="Aryan's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nossks&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Aryan's Stats](https://github-readme-stats.vercel.app/api?username=Nossks&show_icons=true&theme=radical&count_private=true)
 
 ---
 
