@@ -35,11 +35,6 @@ I love building projects that **solve real-world problems**, compete in programm
 - Tech: Python, TensorFlow, MediaPipe, Scikit-Learn, Flask.
 
 ---
-## 📊 GitHub Analytics
-
-![Aryan's Stats](https://github-readme-stats.vercel.app/api?username=Nossks&show_icons=true&theme=radical&count_private=true)
-
----
 
 ## 🌱 Currently Learning
 - Advance RAG   
