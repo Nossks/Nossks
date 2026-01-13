@@ -19,21 +19,20 @@ I love building projects that **solve real-world problems**, compete in programm
 
 ## 🔥 Projects
 
-### 1️⃣ Legal Assistant
-- It's a complete Retrieval-Augmented Generation (RAG) pipeline designed to answer questions about a custom corpus of legal documents by finding the most relevant text snippets.
-- The system is built on Python, using Flask for the web server, LangChain and Hugging Face transformers for the AI logic, and ChromaDB as the vector database for efficient document retrieval. 
+### 1️⃣ FinGuard | Privacy-First Fraud RAG
+- The Build: Developed a RAG pipeline using CyborgDB and LangChain to encrypt vector embeddings, ensuring data privacy in forensic retrieval.
+- Key Innovation: Engineered an intelligent router to toggle between low-latency chat and deep retrieval; benchmarked at 13 QPS with a minimal 4.2% privacy overhead.
+- Tech: Python, CyborgDB, LangChain, Flask, Vector Encryption.
 
-### 2️⃣ Resume Matcher
-- End-to-end ML Flask app that extracts, processes, and recommends jobs from resumes.  
-- Uses PyMuPDF, Gensim, scikit-learn with local deployment.  
+### 2️⃣ EviScore | Multilingual Clinical Extraction
+- The Build: Architected a pipeline to extract structured data from multilingual (Hinglish) medical journals using Sentence-Transformers.
+- Key Innovation: Eliminated hallucinations by engineering Pydantic guardrails and a Semantic N-gram Scorer (mBERT) to ensure cross-lingual term grounding.
+- Tech: Python, Sentence-Transformer, Pydantic, LangChain, Multilingual-BERT. 
 
-### 3️⃣ Celebrity Look-Alike
-- Detects and crops faces, generates embeddings, and finds closest celebrity.  
-- Uses MediaPipe + ResNet50 + MLP with cosine similarity for fast retrieval.  
-
-### 4️⃣ Sign Language Detection
-- Real-time ASL → text web app using webcam input.  
-- CPU-friendly Random Forest model with prediction-stability buffer and Flask backend.
+### 3️⃣ Celeb Look-Alike | Metric Learning & CV
+- The Build: Fine-tuned ResNet50 and implemented MediaPipe for face alignment, standardizing inputs against pose and lighting variations.
+- Key Innovation: Boosted accuracy from 45% to 83.4% through layer unfreezing and data augmentation; utilized L2-Normalized Embeddings for precise one-shot matching.
+- Tech: Python, TensorFlow, MediaPipe, Scikit-Learn, Flask.
 
 ---
 
